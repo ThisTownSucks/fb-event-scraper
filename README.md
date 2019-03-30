@@ -34,7 +34,7 @@ npm run up
 ## usage
 
 ```bash
-curl http://localhost:3000/scrap/?url=https://www.facebook.com/events/2185490331770352/
+curl http://localhost:3000/scrape/?url=https://www.facebook.com/events/2185490331770352/
 ```
 
 output
